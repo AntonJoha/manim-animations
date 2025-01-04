@@ -6,9 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+# Added by me
 media
 images
 videos
+tags
 
 # Distribution / packaging
 .Python
